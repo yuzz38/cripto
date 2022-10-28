@@ -1426,4 +1426,18 @@ footer {
    .form button {
     font-size: 18px;
    }
+   .feed-choose__btn a {
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    max-width: 100%;
+   }
+   .container2 {
+    max-width: 273px;
+    position: absolute;
+    height: 162px;
+   }
+   .blur {
+    width: 265px;
+   }
 }
